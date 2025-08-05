@@ -81,7 +81,7 @@ Thanks to ChatGPT and OpenAI for technical support and assistance.
 
 ## 许可证
 
-本项目基于开源项目 https://github.com/namazso/MagicSigner 以及 https://github.com/microsoft/Detours，感谢原作者的贡献。
+本项目基于开源项目 https://github.com/namazso/MagicSigner 以及 https://github.com/microsoft/Detours ，感谢原作者的贡献。
 
 本项目中修改及新增的代码版权归 yaoruisheng 所有，遵循 BSD Zero Clause License 许可。
 
